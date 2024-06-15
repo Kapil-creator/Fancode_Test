@@ -1,0 +1,17 @@
+fancode-city-todo-automation/
+│
+├── api_automation.py       # Module for interacting with FanCode city APIs
+├── test_fancode_city.py    # Test script containing test cases
+├── requirements.txt        # File specifying project dependencies
+├── README.md               # Project documentation
+└── venv/                   # Virtual environment directory (optional)
+
+api_automation.py: Contains functions for interacting with FanCode city APIs. This module encapsulates the logic for fetching users in the FanCode city, retrieving user todos, and calculating completed task percentages.
+
+test_fancode_city.py: Test script containing test cases for the FanCode City ToDo Automation project. This script utilizes the functions from api_automation.py to perform tests and assertions.
+
+requirements.txt: Specifies the project dependencies, including the versions of external libraries such as requests and pytest.
+
+README.md: Documentation for the project. This file includes information on project setup, usage, contributing guidelines, and any additional details about the FanCode City ToDo Automation.
+
+venv/: (Optional) Virtual environment directory. This directory is created if you choose to use a virtual environment for managing project dependencies.
