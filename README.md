@@ -7,7 +7,7 @@ This project automates the validation that users in the FanCode city have comple
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kapil-sdet/fancode-city-todo-automation.git
+    git clone https://github.com/Kapil-creator/Fancode_Test.git
     cd fancode-city-todo-automation
     ```
 
